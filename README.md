@@ -1,0 +1,2 @@
+# kddi
+manabi_platform
